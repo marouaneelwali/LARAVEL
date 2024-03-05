@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-</head> 
+</head>
 <body>
- <h1>hello</h1>
+    nb1 {{$nb1}} <br />
+    nb2 {{$nb2}}<br />
+    nb3 {{$nb3}}<br />
+    nb4 {{$nb4}}<br />
 </body>
 </html>
